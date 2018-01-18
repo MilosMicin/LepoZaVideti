@@ -1,0 +1,12 @@
+d:\users\milos\documents\visual studio 2013\Projects\Sajt\Sajt\bin\Sajt.dll.config
+d:\users\milos\documents\visual studio 2013\Projects\Sajt\Sajt\bin\Sajt.dll
+d:\users\milos\documents\visual studio 2013\Projects\Sajt\Sajt\bin\Sajt.pdb
+d:\users\milos\documents\visual studio 2013\Projects\Sajt\Sajt\obj\Debug\Sajt.csprojResolveAssemblyReference.cache
+d:\users\milos\documents\visual studio 2013\Projects\Sajt\Sajt\obj\Debug\Sajt.dll
+d:\users\milos\documents\visual studio 2013\Projects\Sajt\Sajt\obj\Debug\Sajt.pdb
+d:\Skola\Web programiranje ASP\Sajt\Sajt\Sajt\bin\Sajt.dll.config
+d:\Skola\Web programiranje ASP\Sajt\Sajt\Sajt\bin\Sajt.dll
+d:\Skola\Web programiranje ASP\Sajt\Sajt\Sajt\bin\Sajt.pdb
+d:\Skola\Web programiranje ASP\Sajt\Sajt\Sajt\obj\Debug\Sajt.csprojResolveAssemblyReference.cache
+d:\Skola\Web programiranje ASP\Sajt\Sajt\Sajt\obj\Debug\Sajt.dll
+d:\Skola\Web programiranje ASP\Sajt\Sajt\Sajt\obj\Debug\Sajt.pdb
